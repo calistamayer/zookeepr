@@ -117,6 +117,15 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Fanny",
+      "species": "Elephant",
+      "diet": "folivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
