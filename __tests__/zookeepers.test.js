@@ -64,6 +64,7 @@ test("validates favorite animal", () => {
     const zookeeper = {
         id: "1",
         name: "Calista",
+        age: 26,
         favoriteAnimal: "deer"
     };
 
